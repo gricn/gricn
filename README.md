@@ -1,6 +1,5 @@
 ### Hi Guys! I'm Gricn 👋 
 
-- 🔭 I’m currently work in Shenzhen, Guangdong, China and used to study in Beijing, China
 - 💬 You can communicate with me through [Email](mailto:gricn666@gmail.com).
 - 😄 Sometimes I write a new post in my blog: https://gricn.github.io 
 
