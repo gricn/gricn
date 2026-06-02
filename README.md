@@ -1,7 +1,26 @@
-### Hi Guys! I'm Gricn 👋
+# Hi, I'm Jack 👋
 
-- 💬 You can communicate with me through [Email](mailto:gricn666@gmail.com).
+Healthcare background, currently exploring AI, automation and productivity systems.
 
-[comment]: # (- 😄 Sometimes I write a new post in my blog: https://gricn.github.io)
+## What I'm interested in
 
-[![Gricn's github stats](https://github-readme-stats-gricns-projects.vercel.app/api?username=gricn&layout=compact&count_private=true&show_icons=true)](https://github.com/gricn)
+- AI Agents
+- Workflow Automation
+- RPA
+- Personal Knowledge Management
+- Healthcare Technology
+
+## Currently Learning
+
+- Agent Workflows
+- Python Automation
+- AI Tool Integration
+- Building Small Useful Tools
+
+## Projects
+
+I'm building and experimenting with practical tools that help simplify repetitive work and improve productivity.
+
+## Contact
+
+📧 gricn666@gmail.com
